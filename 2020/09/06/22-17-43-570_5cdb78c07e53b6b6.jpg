@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Cocoa を飲んで、ほっとして。</title>
+
+    <meta name="generator" content="//www.typepad.com/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="Mac, Cocoa, iPhone, GR DIGITAL, Nikon, D700, D800E" />
+        <meta name="description" content="Macのアプリを作っています。" />
+
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/css/responsive-banner.css">
+
+    <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/bxslider.css">
+    <link rel="stylesheet" href="https://static.typepad.com/.shared/css/widgets.css">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="https://norihito.typepad.com/weblog/styles.css?v=6" type="text/css" media="screen" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+    <link rel="canonical" href="https://norihito.typepad.com/weblog/" />
+
+        <link rel="alternate" type="application/atom+xml" title="Posts on 'Cocoa を飲んで、ほっとして。' (Atom)" href="https://norihito.typepad.com/weblog/atom.xml" />
+        <link rel="alternate" type="application/rss+xml" title="Posts on 'Cocoa を飲んで、ほっとして。' (RSS 1.0)" href="https://norihito.typepad.com/weblog/index.rdf" />
+        <link rel="alternate" type="application/rss+xml" title="Posts on 'Cocoa を飲んで、ほっとして。' (RSS 2.0)" href="https://norihito.typepad.com/weblog/rss.xml" />
+
+        <script type="text/javascript">
+                var TPApp = {};
+                TPApp.app_uri = "//www.typepad.com/";
+        </script>
+        <script type="text/javascript" src="/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js,/js/app/flyouts-min.js"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Basic','Oswald' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+
+
+<meta property="og:title" content="Cocoa を飲んで、ほっとして。" />
+<meta property="og:site_name" content="Cocoa を飲んで、ほっとして。" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://norihito.typepad.com/weblog/" />
+<meta property="og:description" content="" />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="https://up2.typepad.com/6a00d8341dec7253ef0167678eb568970b-220si" />
+
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00d8341dec7253ef00d8341dec7453ef');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+
+
+</head>
+<body id="top" class="two-column-right index fullposts">
+
+<div id="bannav-wrap">
+
+
+
+
+   
+
+        <header class="main">
+            <div id="banner-image-container" class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="content">
+                           <div id="banner"><a href="https://norihito.typepad.com/weblog/"><span>
+                           
+                           </span></a></div>
+                        </div>
+                    </div>
+                </div>
+             </div>
+        </header>
+
+
+
+</div>
+
+    <main id="post-container">
+
+
+
+
+
+        <div class="container postarea">
+            <div class="row pagebody">
+                <div class="col-sm-8">
+                    <div class="left-container"><div class="left-container-inner">
+
+
+
+
+
+
+<!-- FEATURED POST -->
+
+<!-- REGULAR POSTS -->
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://norihito.typepad.com/weblog/2017/01/mac%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E9%80%B2%E6%8D%97.html">Macアプリの進捗</a>
+        </span>
+       </h2>
+
+
+
+       <h5 class="date-header font-dateheader">
+           <span class="entry-date"><a href="https://norihito.typepad.com/weblog/2017/01/mac%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E9%80%B2%E6%8D%97.html">01/21/2017</a></span>
+       </h5>
+
+
+
+			<div class="entry-body font-entrybody">
+				<p class="asset-video"><iframe src="https://player.vimeo.com/video/197020180" width="500" height="281" frameborder="0" title="エディタ進捗 2016-12-25" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+
+<p>Macで動くエディタをいつまでたっても完成させることができず申し訳ありません。</p>
+
+<p>たくさんの方に期待していただき、応援していただいているのに、本当に申し訳なく思っています。</p>
+
+<p>会社は相変わらず事務所も無くメンバーはわずか4人です。これまでに50タイトル以上のiOSアプリをリリースして、毎年、秋に出る新しいiOSにあわせてアップデートしてきました。</p>
+
+<p>会社はこのようにiOSの仕事で一杯一杯なので、エディタは自分の時間を使って、すべて1人で作っています。昨年は会社の仕事を少しだけ減らすことができたので、これまでよりもエディタの開発が進みました。</p>
+
+<p>最初のバージョンは、長文を書く用途に絞って、基礎の部分をしっかり作りこむことに重点を置いています。昨年末の時点で上の動画のような感じです。長い文章でも動作は軽快だと思います。</p>
+
+<p>禁則などのレイアウトの基本部分は概ねできています。縦中横も実装済みです。ルビはまだテストコードレベルです。</p>
+
+<p>フォントを扱う部分以外はすべてSwift 3.0で書いています。フォントはバイナリデータをたくさん扱うため C++です。こういったローレベルの部分も資料を読んで自分で書いています。</p>
+
+<p>編集機能は、Undo がまだ中途半端な実装のままです。キーを使ったカーソル移動や選択は実装済みです。マウス操作も一通り組み込んでありますが、Drag &amp; Drop がまだです。</p>
+
+<p>表示に関しては、行番号、グリッド、フルスクリーン表示とナイトモード（白黒反転モード）を実装しました。画面分割で文書の別の部分を同時に表示できるようにもしました。文字数カウントも実装し、新しいMacBook Pro のTouch Bar にも表示できるようにしました。Touch Bar のこういう使い方も意外に便利だと思いました。</p>
+
+<p>今年に入ってからはページ表示と段組を実装中です。ページ表示ができると印刷やPDF 書き出しの実装に取り掛かれます。段組の仕組みができると市販の原稿用紙のような特殊なものもうまく扱えます。</p>
+
+<p>現時点ではこのような状況ですが、2月中旬までに終わらせなければならないiOS の仕事があるので、それまではエディタの開発はスローダウンします。申し訳ありません。実装が進んだら再びここで報告したいと思います。</p>
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted at 02:35 in <a href="https://norihito.typepad.com/weblog/mac/">Mac</a> </span> <span class="separator">|</span> <a class="permalink" href="https://norihito.typepad.com/weblog/2017/01/mac%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E9%80%B2%E6%8D%97.html">Permalink</a>
+
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-twitter">
+     <a href="https://twitter.com/share?url=https%3A%2F%2Fnorihito.typepad.com%2Fweblog%2F2017%2F01%2Fmac%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E9%2580%25B2%25E6%258D%2597.html&text=Mac%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E9%80%B2%E6%8D%97" target="_blank"><i class="icon fab fa-twitter"></i></a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnorihito.typepad.com%2Fweblog%2F2017%2F01%2Fmac%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E9%2580%25B2%25E6%258D%2597.html" target="_blank"><i class="icon fab fa-facebook"></i></a>
+     
+</span>
+	</p>
+
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://norihito.typepad.com/weblog/2013/12/tokyo-motor-show-2013.html">TOKYO MOTOR SHOW 2013</a>
+        </span>
+       </h2>
+
+
+
+       <h5 class="date-header font-dateheader">
+           <span class="entry-date"><a href="https://norihito.typepad.com/weblog/2013/12/tokyo-motor-show-2013.html">12/01/2013</a></span>
+       </h5>
+
+
+
+			<div class="entry-body font-entrybody">
+				<p>息子と一緒に東京モーターショー2013に行ってきました。撮影はすべて<a target="_blank" href="http://www.nikon-image.com/products/camera/slr/digital/d7100/" rel="noopener noreferrer">D7100</a> + <a target="_blank" href="http://www.sigma-photo.co.jp/lens/standard/18_35_18_A013/" rel="noopener noreferrer">SIGMA 18-35mm F1.8 DC HSM</a> で、<a target="_blank" href="https://www.adobe.com/jp/products/photoshop-lightroom.html" rel="noopener noreferrer">Adobe Photoshop Lightroom 5</a> で現像しました。</p>
+<p>まずはメルセデスのブース。<a target="_blank" href="http://www.mercedes-benz.co.jp/content/japan/mpc/mpc_japan_website/ja/home_mpc/passengercars/home/new_cars/models/s-class/w222/facts_/s65/highlights.html" rel="noopener noreferrer">S65 AMG Long</a>。V12ですね。ちょっと前、現行というかひとつ前のモデルが隣を走っていたんですが、V12サウンドはしびれますね。音を聞きたくてがんばったんですが、あっという間に置いていかれました。</p>
+<p><a href="https://www.flickr.com/photos/norihito/11090970163" title="S65 AMG long（ワールドプレミア） by Norihito Hirose, on Flickr"><img class="asset asset-image image-full img-responsive" src="https://farm3.staticflickr.com/2814/11090970163_eb3975dc9e_h.jpg" alt="S65 AMG long（ワールドプレミア）" width="640" height="427" /></a></p>
+<p>こちらは超ロングノーズがしびれます。</p>
+<p><a href="https://www.flickr.com/photos/norihito/11084668923" title="SLS AMG GT FINAL EDITION（ワールドプレミア） by Norihito Hirose, on Flickr"><img class="asset asset-image image-full img-responsive" src="https://farm4.staticflickr.com/3696/11084668923_909578b566_h.jpg" alt="SLS AMG GT FINAL EDITION（ワールドプレミア）" width="640" height="427" /></a></p>
+<p>Sクラスクーペのコンセプトですが、のびやかなデザインで美しいです。高級クーペは都内だとベントレーをよく見かけますが、メルセデスだとポジション的に難しいかな？</p>
+<p><a target="_blank" href="https://www.flickr.com/photos/norihito/11084571274/" title="S-Class Coupé Concept by norihito, on Flickr" rel="noopener noreferrer"><img class="asset asset-image image-full img-responsive" src="https://farm6.staticflickr.com/5526/11084571274_f151714286_z.jpg" alt="S-Class Coupé Concept" width="640" height="427" /></a></p>
+<p><a target="_blank" href="http://www.mercedes-benz.co.jp/content/japan/mpc/mpc_japan_website/ja/home_mpc/passengercars/home/new_cars/models/cla-class/c117/facts_/amg/highlights_amg.html" rel="noopener noreferrer">CLA 45 AMG 4MATIC</a>。最強の2リッターターボエンジン搭載ですね。そういえば 4MATIC なのに右ハンドルです。今年のメルセデスは右ハンドルがんばってます。EクラスのカブリオレやGクラスにも右ハンドルが登場しました。富裕層の奥様方に売り込むには右ハンドルの方がいいでしょうね。</p>
+<p><a target="_blank" href="https://www.flickr.com/photos/norihito/11084474405/" title="CLA 45 AMG 4MATIC by norihito, on Flickr" rel="noopener noreferrer"><img class="asset asset-image image-full img-responsive" src="https://farm4.staticflickr.com/3744/11084474405_33a4309dbd_z.jpg" alt="CLA 45 AMG 4MATIC" width="640" height="427" /></a></p>
+<p>続いてお隣ブースの <a target="_blank" href="http://www.kenokuyamadesign.com/main/?page_id=3810" rel="noopener noreferrer">KEN OKUYAMA DESIGN kode9</a>。890kgの軽量ボディに370PSのエンジンを搭載したスパルタンなマシンですが、なんとなくかわいいです。</p>
+<p><a target="_blank" href="https://www.flickr.com/photos/norihito/11084679353/" title="KEN OKUYAMA DESIGN kode9 by norihito, on Flickr" rel="noopener noreferrer"><img class="asset asset-image image-full img-responsive" src="https://farm8.staticflickr.com/7447/11084679353_7d91656207_z.jpg" alt="KEN OKUYAMA DESIGN kode9" width="640" height="427" /></a></p>
+<p>ちょっと飛ばして、Audi のブース。<a target="_blank" href="http://www.audi.co.jp/jp/brand/ja/models/r8/r8_spyder.html" rel="noopener noreferrer">Audi R8 Spyder（V10）</a>。息子曰く「やっぱりR8はV10だよね」そりゃ言うだけならお父さんもV10だよ（笑）。これもちょっと前に目の前を走っていたんですが（東京って凄すぎ）V10サウンドもいいですねぇ。</p>
+<p><a target="_blank" href="https://www.flickr.com/photos/norihito/11085489845/" title="Audi R8 Spyder by norihito, on Flickr" rel="noopener noreferrer"><img class="asset asset-image image-full img-responsive" src="https://farm8.staticflickr.com/7366/11085489845_be2e79436c_z.jpg" alt="Audi R8 Spyder" width="640" height="427" /></a></p>
+<p>続いてお隣のランドローバー。<a target="_blank" href="https://newrangeroversport.landrover.com/jp/ja/#challenge" rel="noopener noreferrer">レンジローバー・スポーツ</a>です。レンジローバーはあまり見かけなくなりましたね。カイエンとかいろいろありますからね。学生の頃にレガシィに乗っていたので駐車場を借りていたんですが、「学生専用」なのに隣の車がレンジローバーでした。懐かしいです。</p>
+<p><a target="_blank" href="https://www.flickr.com/photos/norihito/11085494765/" title="レンジローバー・スポーツ by norihito, on Flickr" rel="noopener noreferrer"><img class="asset asset-image image-full img-responsive" src="https://farm8.staticflickr.com/7329/11085494765_c23bdf47e8_z.jpg" alt="レンジローバー・スポーツ" width="640" height="427" /></a></p>
+<p>続いてジャガーです。<a target="_blank" href="http://www.jaguar.co.jp/jaguar-range/f-type/f-type-models/index.html" rel="noopener noreferrer">F-TYPE R COUPE</a>。真っ白な車は写真を撮るのが難しいです。ローバーもジャガーも英国以外のメーカーの傘下になってしまったので、日本でのブランド力の低下はかなり大きいでしょうね。でも007の映画に出てくると、ジャガーもレンジローバーもやっぱり英国車なんだなぁって感じます。</p>
+<p><a target="_blank" href="https://www.flickr.com/photos/norihito/11090943374/" title="ジャガー Fタイプ クーペ（ワールドプレミア） by norihito, on Flickr" rel="noopener noreferrer"><img class="asset asset-image image-full img-responsive" src="https://farm4.staticflickr.com/3750/11090943374_fb5104bc50_z.jpg" alt="ジャガー Fタイプ クーペ（ワールドプレミア）" width="640" height="427" /></a></p>
+<p>続いてLEXUS。気付いたら外車ばかり見てて国産はあんまり見てませんでした。これは <a target="_blank" href="http://www.lexus-int.com/jp/models/RC/" rel="noopener noreferrer">LEXUS RC</a> です。色が素敵ですね。フロントフェンダーからリアにかけてのサイドラインも美しいです。</p>
+<p><a target="_blank" href="https://www.flickr.com/photos/norihito/11091067043/" title="LEXUS RC（ワールドプレミア） by norihito, on Flickr" rel="noopener noreferrer"><img class="asset asset-image image-full img-responsive" src="https://farm6.staticflickr.com/5518/11091067043_28e7a745ac_z.jpg" alt="LEXUS RC（ワールドプレミア）" width="640" height="427" /></a></p>
+<p>続いてBMW。お約束の <a target="_blank" href="http://www.bmw.co.jp/jp/ja/newvehicles/i/i8/2013/showroom/" rel="noopener noreferrer">BMW i8</a>ですが、他のカラーリングを見てみたいですね。</p>
+<p><a target="_blank" href="https://www.flickr.com/photos/norihito/11091087263/" title="BMW i8 by norihito, on Flickr" rel="noopener noreferrer"><img class="asset asset-image image-full img-responsive" src="https://farm8.staticflickr.com/7355/11091087263_2d1de98306_z.jpg" alt="BMW i8" width="640" height="436" /></a></p>
+<p><a target="_blank" href="http://www.bmw.co.jp/jp/ja/newvehicles/mseries/m6grancoupe/2012/showroom/introduction.html" rel="noopener noreferrer">M6 グランクーペ</a>。6シリーズはちょっとエレガントな印象ですが、これはカラーリングといいかなりスパルタンな雰囲気です。全長が5メートルを超えると金額以上に所有できる人は限られますね。</p>
+<p><a target="_blank" href="https://www.flickr.com/photos/norihito/11090869395/" title="BMW M6 グラン クーペ by norihito, on Flickr" rel="noopener noreferrer"><img class="asset asset-image image-full img-responsive" src="https://farm4.staticflickr.com/3807/11090869395_fb861c6a06_z.jpg" alt="BMW M6 グラン クーペ" width="640" height="427" /></a></p>
+<p><a target="_blank" href="http://www.bmw.com/com/en/newvehicles/4series/convertible/2013/showroom/index.html" rel="noopener noreferrer">4シリーズ カブリオレ</a>。トランクが開いちゃってますが、想像していたよりもずんぐりした印象でした。せっかくのワールドプレミアなので、もうちょっと展示に工夫があってもいいのになぁと思いました。</p>
+<p><a target="_blank" href="https://www.flickr.com/photos/norihito/11095313023/" title="BMW 4シリーズ カブリオレ（ワールドプレミア） by norihito, on Flickr" rel="noopener noreferrer"><img class="asset asset-image image-full img-responsive" src="https://farm4.staticflickr.com/3829/11095313023_73df507ae3_z.jpg" alt="BMW 4シリーズ カブリオレ（ワールドプレミア）" width="640" height="427" /></a></p>
+<p>最後は<a target="_blank" href="http://www.nissan.co.jp/GT-R/nismo.html" rel="noopener noreferrer">GT-R NISMO</a>。息子の最大の目的がこの車でした。これが1,500万円なら安いんでしょうね。いろんなところが専用品に置き換わってます。GT-Rはがんばって買っても維持が大変です。300kmで安心して走れるようにメンテはきっちりやってもらいますだそうです。追浜のテストコースで自分でハンドルを握って 0-100km/h 加速の体験をしたことがあるんですが、視界が暗くなって意識が遠のきました。サーキットで遊べる余裕がないともったいないです。</p>
+<p><a target="_blank" href="https://www.flickr.com/photos/norihito/11090994114/" title="GT-R NISMO（ワールドプレミア） by norihito, on Flickr" rel="noopener noreferrer"><img class="asset asset-image image-full img-responsive" src="https://farm3.staticflickr.com/2859/11090994114_4bd03eda0d_z.jpg" alt="GT-R NISMO（ワールドプレミア）" width="640" height="427" /></a></p>
+<p>という感じで、息子と２人、<a target="_blank" href="http://matome.naver.jp/odai/2138530652782427601" rel="noopener noreferrer">コンパニオン</a>のお姉さんには目もくれず高級車で目の保養をしてきました。どの車もキラキラしてて惹かれるものがあります。いつかこういうのに乗りたいからがんばるぞっていうのもいいんじゃないかなぁと思います。</p>
+<p><a target="_blank" href="https://www.flickr.com/photos/norihito/sets/72157638126347574/" rel="noopener noreferrer">TOKYO MOTOR SHOW 2013 on Flickr</a></p>
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted at 02:48 in <a href="https://norihito.typepad.com/weblog/d7100/">Nikon D7100</a> </span> <span class="separator">|</span> <a class="permalink" href="https://norihito.typepad.com/weblog/2013/12/tokyo-motor-show-2013.html">Permalink</a>
+
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-twitter">
+     <a href="https://twitter.com/share?url=https%3A%2F%2Fbit.ly%2F1aikCFn&text=TOKYO%20MOTOR%20SHOW%202013" target="_blank"><i class="icon fab fa-twitter"></i></a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnorihito.typepad.com%2Fweblog%2F2013%2F12%2Ftokyo-motor-show-2013.html" target="_blank"><i class="icon fab fa-facebook"></i></a>
+     
+</span>
+	</p>
+
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://norihito.typepad.com/weblog/2013/08/adobe-photoshop-lightroom-5.html">Adobe Photoshop Lightroom 5</a>
+        </span>
+       </h2>
+
+
+
+       <h5 class="date-header font-dateheader">
+           <span class="entry-date"><a href="https://norihito.typepad.com/weblog/2013/08/adobe-photoshop-lightroom-5.html">08/08/2013</a></span>
+       </h5>
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><a href="https://www.flickr.com/photos/norihito/9356458430/" title="DSC_7695 by norihito, on Flickr"><img src="https://farm6.staticflickr.com/5515/9356458430_4cd9bbf304_z.jpg" width="640" height="427" alt="DSC_7695"></a></p>
+
+<p>少し前になりますが、アドビシステムズさんのお誘いで、“<a target="_blank" href="https://www.adobe.com/jp/products/photoshop-lightroom.html">Adobe Photoshop Lightroom 5</a>”の<a target="_blank" href="http://www.macotakara.jp/blog/report/entry-20636.html">説明会</a>に行ってきました。</p>
+
+<p>僕はデジタル一眼レフを使うようになってからずっとApertureを使ってきましたが、何故か誘われてしまい、ブログも書くように言われたので、会場で学んだことをまとめてみます（長いです）。</p>
+
+<p>僕がやるレタッチといえば、傾き補正、ごみ取りくらいで、あとはAperture の自動補正まかせ。なんだかんだ言って面倒くさいので、これまでレタッチには全然興味がありませんでした。</p>
+
+<p>LightroomはLeica X2をもっていた頃（GRを買った後下取りに出してD7100になりました）Lightroom 4が付いてきたので少し触ったことがある程度。ApertureというかOS XのDigital Camera RAWがLeica X2に対応するとすぐにApertureで現像するようになりました。</p>
+
+<p>さて、ここからようやくLightroom 5のお話。僕はAdobe Creative Cloudを契約しているので説明会の前日にあわててダウンロードして予習してみたんですが、そしたら最初の「読み込み」からつまずいてしまいました。</p>
+
+<p><a href="https://www.flickr.com/photos/norihito/9457662157/" title="Lightroom 5 Seminar 12 by norihito, on Flickr"><img src="https://farm8.staticflickr.com/7416/9457662157_8dfc43f967_z.jpg" width="640" height="407" alt="Lightroom 5 Seminar 12"></a></p>
+
+<p>ニコンのRAWファイルはNEFというフォーマットなんですが、Lightroom 5の読み込み画面はデフォルトで「DNG形式でコピー」が選ばれてました。「え、NEFはDNGに変換されちゃうの？それは困る...」と、勝手に残念な仕様だと思い込んでしまったんですが、その右にある「コピー」というのを選べばNEFのまま読み込まれるそうです。これについては、説明会の最後で「DNGでしか読み込めないんですか？」と質問して赤っ恥をかいてしまいました。このディスエーブル感たっぷりの「コピー」はちょっとハードルが高かったです。せめて「元の形式でコピー」だったら押せたかも...</p>
+
+<p>UIについては違和感を感じた部分もあるんですが、ここからは説明会で聞いてきたワザを使ってレタッチに挑戦してみようと思います。</p>
+
+<p>実はずっと製品名を“Adobe Lightroom”だと思っていたんですが、よく見たら間に“Photoshop”が入っているんですね。“Photoshop”を冠するだけあって、レタッチに関してはApertureとは比べ物にならないほど充実してます。しかもPhotoshopよりずっと簡単で、サクサクというかザクザクとレタッチできます。</p>
+
+<p><a href="https://www.flickr.com/photos/norihito/9457593671/" title="Lightroom 5 Seminar 01 by norihito, on Flickr"><img src="https://farm8.staticflickr.com/7347/9457593671_a1ba994976_z.jpg" width="640" height="407" alt="Lightroom 5 Seminar 01"></a></p>
+
+<p>このトップの写真、後ろの壁はもっと白いんですが、ディスプレイと天井のスポットライトで色温度が異なるため、画面全体のホワイトバランス調整ではうまく調整できませんね。</p>
+
+<p><a href="https://www.flickr.com/photos/norihito/9457593487/" title="Lightroom 5 Seminar 02 by norihito, on Flickr"><img src="https://farm4.staticflickr.com/3688/9457593487_4485ed9e1d_z.jpg" width="640" height="407" alt="Lightroom 5 Seminar 02"></a></p>
+
+<p>これは前からある機能だと思うんですが「補正ブラシ」を使って部分的に補正します。ブラシで塗りつぶしたところだけ補正がかかるので、補正したい壁全体を塗りつぶします。</p>
+
+<p><a href="https://www.flickr.com/photos/norihito/9457593315/" title="Lightroom 5 Seminar 03 by norihito, on Flickr"><img src="https://farm4.staticflickr.com/3669/9457593315_0dd5820ab8_z.jpg" width="640" height="407" alt="Lightroom 5 Seminar 03"></a></p>
+
+<p>ホワイトバランスを調整するとこんな感じ。ディスプレイの色はそのままに壁だけ補正されました。</p>
+
+<p>次に壁の右下にあるスイッチがイマイチなので、新機能の「<a target="_blank" href="https://www.adobe.com/jp/products/photoshop-lightroom/features.html">修復ブラシ</a>」で消してしまいます。修復ブラシはもともとゴミ（スポット）を取り除くための機能です。</p>
+
+<p><a href="https://www.flickr.com/photos/norihito/9460374894/" title="Lightroom 5 Seminar 04 by norihito, on Flickr"><img src="https://farm6.staticflickr.com/5449/9460374894_b3ba1af975_z.jpg" width="640" height="407" alt="Lightroom 5 Seminar 04"></a></p>
+
+<p>こんな風にスポットをわかりやすく表示することもできます。本来ならここで浮かび上がった斑点を潰していくんですが、今回は右下のスイッチ２つに消えてもらいます。</p>
+
+<p><a href="https://www.flickr.com/photos/norihito/9460374822/" title="Lightroom 5 Seminar 05 by norihito, on Flickr"><img src="https://farm4.staticflickr.com/3733/9460374822_c9fbcd6213_z.jpg" width="640" height="400" alt="Lightroom 5 Seminar 05"></a></p>
+
+<p>やり方は実に簡単で、修復ブラシを選んで消したい部分を塗りつぶすだけ。</p>
+
+<p><a href="https://www.flickr.com/photos/norihito/9460374764/" title="Lightroom 5 Seminar 06 by norihito, on Flickr"><img src="https://farm4.staticflickr.com/3737/9460374764_24e5c2a15a_z.jpg" width="640" height="407" alt="Lightroom 5 Seminar 06"></a></p>
+
+<p>塗りつぶした部分を埋めるための画像は、同じ画像の他の部分からコピーしてくるんですが、自動的に良さそうなところを選んでくれます。</p>
+
+<p><a href="https://www.flickr.com/photos/norihito/9457592559/" title="Lightroom 5 Seminar 07 by norihito, on Flickr"><img src="https://farm4.staticflickr.com/3809/9457592559_f276475d50_z.jpg" width="640" height="407" alt="Lightroom 5 Seminar 07"></a></p>
+
+<p>コピー元にどこを使うかは後から調整可能で、こんな心霊写真も簡単に作れます。</p>
+
+<p>続いてはディスプレイの中身が露出オーバーで締まりが無いので、こちらを調整</p>
+
+<p><a href="https://www.flickr.com/photos/norihito/9460374120/" title="Lightroom 5 Seminar 08 by norihito, on Flickr"><img src="https://farm6.staticflickr.com/5547/9460374120_1eff45ea3a_z.jpg" width="640" height="407" alt="Lightroom 5 Seminar 08"></a></p>
+
+<p>露出とハイライトを調整してメニューバーもくっきりしました。</p>
+
+<p><a href="https://www.flickr.com/photos/norihito/9460374034/" title="Lightroom 5 Seminar 09 by norihito, on Flickr"><img src="https://farm4.staticflickr.com/3791/9460374034_70bf044d6a_z.jpg" width="640" height="407" alt="Lightroom 5 Seminar 09"></a></p>
+
+<p>これで十分なんですが、せっかくの説明会、真ん中の席でばっちり聞いてきました！という感じにしたいので、これまた新機能の<a target="_blank" href="https://www.adobe.com/jp/products/photoshop-lightroom/features.html">Upright™機能</a>を使ってみます。Upright機能は画像の中から水平・垂直線を検出して自動的に真っ直ぐにしてくれる機能です。</p>
+
+<p><a href="https://www.flickr.com/photos/norihito/9457591985/" title="Lightroom 5 Seminar 10 by norihito, on Flickr"><img src="https://farm4.staticflickr.com/3761/9457591985_b1618c22ce_z.jpg" width="640" height="407" alt="Lightroom 5 Seminar 10"></a></p>
+
+<p>縦横両方（フル）を選ぶと笑っちゃうくらい真っ直ぐになります。</p>
+
+<p><a href="https://www.flickr.com/photos/norihito/9460373610/" title="Lightroom 5 Seminar 11 by norihito, on Flickr"><img src="https://farm6.staticflickr.com/5342/9460373610_03eeefc8d8_z.jpg" width="640" height="407" alt="Lightroom 5 Seminar 11"></a></p>
+
+<p>最後に適当にトリミングして完成。かなり無理やりでしたが、久しぶりに新しいことを学べて楽しかったです。メモリを4GBしか積んでいないひとつ前の13インチのMacBook Airでもサクサク動きました。<a target="_blank" href="https://www.adobe.com/jp/products/photoshop-lightroom/buying-guide.html">新規購入</a>でも16,000円と、充実機能の割に安価なので本格的にレタッチする方にはとても良い選択なのではないかと思います。</p>
+
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted at 01:55 </span> <span class="separator">|</span> <a class="permalink" href="https://norihito.typepad.com/weblog/2013/08/adobe-photoshop-lightroom-5.html">Permalink</a>
+
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-twitter">
+     <a href="https://twitter.com/share?url=https%3A%2F%2Fbit.ly%2F1esEV5y&text=Adobe%20Photoshop%20Lightroom%205" target="_blank"><i class="icon fab fa-twitter"></i></a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnorihito.typepad.com%2Fweblog%2F2013%2F08%2Fadobe-photoshop-lightroom-5.html" target="_blank"><i class="icon fab fa-facebook"></i></a>
+     
+</span>
+	</p>
+
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+
+   <div class="bottom-featured">   </div>
+
+
+       
+       
+       <div class="pager-bottom pager-entries pager content-nav">
+                <div class="pager-inner">
+                        
+
+                        
+                        <a href="https://norihito.typepad.com/weblog/page/2/">
+                        <span class="pager-right">
+                        <span class="pager-label">Next</span>
+                        <i class="fas fa-arrow-circle-right"></i> 
+                        </span></a>
+                        
+                </div>
+        </div>
+        
+        
+ 
+
+
+                    </div></div>
+                </div>
+                <div class="col-sm-4">
+
+                    <aside class="widgets">
+                      <div class="widgets-inner">
+<!-- powered by -->
+<div class="module-powered module">
+        <div class="module-content">
+
+                <a href="https://www.typepad.com/" title="Blog">Blog</a> powered by <a href="https://www.typepad.com/" title="Typepad">Typepad</a><br />
+                Member since 03/2004
+
+        </div>
+</div>
+<!-- user photo -->
+    <div class="module-photo module">
+
+
+     
+
+
+<div class="module-content">
+
+<center>
+<img src="https://norihito.typepad.com/.a/6a00d8341dec7253ef0167678eb568970b-150wi" alt="My Photo" class="img-responsive" />
+</center>
+
+</div></div>
+
+<div class="module-elsewhere module module-ew-list">
+	<h2 class="module-header">My Other Accounts</h2>
+			<div class="typelist-plain module-content">
+			<ul class="module-list">
+									<li class="module-list-item">
+
+                                                <a href="https://www.facebook.com/app_scoped_user_id/1276879344"><i class="fab fa-facebook circle solo"></i></a>
+                                                <a href="https://www.facebook.com/app_scoped_user_id/1276879344" rel="me">Facebook: norihito.hirose</a>
+                                        </li>
+                                					<li class="module-list-item">
+
+                                                <a href="https://www.flickr.com/photos/norihito/"><i class="fab fa-flickr circle solo"></i></a>
+                                                <a href="https://www.flickr.com/photos/norihito/" rel="me">Flickr: norihito</a>
+                                        </li>
+                                
+                        </ul>
+                </div>
+        
+        
+</div>
+	<div class="module-archives module">
+		<h2 class="module-header">Recent Posts</h2>
+		<div class="module-content">
+			<ul class="module-list">
+				
+									<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2017/01/mac%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E9%80%B2%E6%8D%97.html">Macアプリの進捗</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2013/12/tokyo-motor-show-2013.html">TOKYO MOTOR SHOW 2013</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2013/08/adobe-photoshop-lightroom-5.html">Adobe Photoshop Lightroom 5</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2013/05/gr.html">GR</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2013/03/sigma-35mm-f14-dg-hsm.html">SIGMA 35mm F1.4 DG HSM</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2013/03/%E3%81%8A%E8%8A%B1%E8%A6%8B.html">お花見</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2012/06/elgato-thunderbolt-ssd.html">elgato Thunderbolt SSD</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2012/06/macbook-pro-with-retina-display-%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E5%8B%95%E4%BD%9C.html">MacBook Pro with Retina Display におけるアプリの動作</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2012/06/macbook-pro-retina-display.html">MacBook Pro with Retina Display を購入</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2012/05/%E5%9C%B0%E7%90%83%E5%84%80.html">地球儀</a></li>
+					
+				
+			</ul>
+		</div>
+	</div>
+<div class="module-categories module">
+	<h2 class="module-header"><a href="https://norihito.typepad.com/weblog/archives.html">Categories</a></h2>
+	<div class="module-content">
+                   <ul class="module-list">
+
+<span class="group">
+                        <li class="module-list-item"><a href="https://norihito.typepad.com/weblog/gr/">GR</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://norihito.typepad.com/weblog/mac/">Mac</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://norihito.typepad.com/weblog/d300/">Nikon D300</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://norihito.typepad.com/weblog/d7100/">Nikon D7100</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://norihito.typepad.com/weblog/d800e/">Nikon D800E</a></li>
+</span>
+
+<span class="group">
+                        <li class="module-list-item"><a href="https://norihito.typepad.com/weblog/gr_digital_ii/">RICOH GR DIGITAL II</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://norihito.typepad.com/weblog/dp2-merrill/">SIGMA DP2 Merrill</a></li>
+</span>
+		</ul>
+
+<a style="font-size:85%;display:none;" class="cat-more" href="https://norihito.typepad.com/weblog/archives.html">See More</a>
+	</div>
+</div>
+	<div class="module-archives module">
+		<h2 class="module-header"><a href="https://norihito.typepad.com/weblog/archives.html">Archives</a></h2>
+		<div class="module-content">
+												<ul class="module-list">
+				
+				<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2017/01/index.html">January 2017</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2013/12/index.html">December 2013</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2013/08/index.html">August 2013</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2013/05/index.html">May 2013</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2013/03/index.html">March 2013</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2012/06/index.html">June 2012</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2012/05/index.html">May 2012</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2012/02/index.html">February 2012</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2011/03/index.html">March 2011</a></li>
+				
+							
+				<li class="module-list-item"><a href="https://norihito.typepad.com/weblog/2011/02/index.html">February 2011</a></li>
+									</ul>
+									<p class="module-more"><a href="https://norihito.typepad.com/weblog/archives.html">More...</a></p>
+				
+				
+			
+		</div>
+	</div>
+
+
+                      </div>
+                    </aside>
+
+
+                </div>
+            </div>
+
+     
+
+
+<!-- footer -->
+<div id="footer">
+<div class="row well"><div class="col-md-12">
+        <div id="footer-inner">
+          <!-- not attag.weblog footer html -->
+                <ul class="footer-list pkg list-inline font-footer" >
+                        <li class="footer-list-item"><a href="https://norihito.typepad.com/weblog/">Cocoa を飲んで、ほっとして。</a> &bull; </li>
+                        <li class="last-footer-list-item footer-list-item"><a href="http://blog.typepad.jp/">Powered by Typepad</a></li>
+                </ul>
+        </div>
+        <a href="#top" id="toplink"><div id="footer-toplink">
+           <div id="footer-arrow"><i class="fas fa-arrow-circle-up"></i></div>
+           <div id="footer-top"><span class="footer-top-inner font-footer">Top</span></div>
+        </div></a>
+</div></div>
+</div>
+
+
+     <!-- foot-scripts -->
+          <!-- foot-scripts-1 -->
+    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+
+    <script src="https://static.typepad.com/.shared/themes/common/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+
+
+          
+
+
+
+
+
+          <!-- foot-scripts-2 -->
+    <script src="https://static.typepad.com/.shared/js/classie.js"></script>
+    <script src="https://static.typepad.com/.shared/js/sidebarEffects.js"></script>
+    <script src="https://static.typepad.com/.shared/js/jquery.masonry.min.js"></script>
+    <script src="https://static.typepad.com/.shared/js/imagesloaded.pkgd.min.js"></script>
+    <script src="https://static.typepad.com/.shared/js/jquery.livequery.min.js"></script>
+<script>
+    var j = $.noConflict(true);
+
+
+function resizebanner() {
+    var bg = j('#banner').css('background-image');
+    if (bg) {
+        var src = bg.replace(/(^url\()|(\)$|[\"\'])/g, '');
+        var $img = j('<img>').attr('src', src).on('load', function () {
+                var img = new Image();
+                img.src = src;
+                var imgW = img.width;
+                var imgH = img.height;
+                var newW = j('#banner').width();
+                var newH = imgH / imgW * newW;
+                j('#banner').height(newH);
+                j('#banner, #banner-title, #banner-desc').css('visibility', 'visible');
+            });//end when loaded
+    }//end if bg
+}//end
+    (function($) {
+       j(document).on('ready', resizebanner);
+       j(window).on('resize', resizebanner);
+    })(jQuery);
+
+
+function check_css_size() {
+    if (j("#mysize").css("float") == "right" ){ mod_pos = 'side'; }
+    else if (j("#mysize").css("float") == "none" ){ mod_pos = 'bottom'; }
+}
+
+
+
+        // SCROLL TO TOP
+        (function($) {
+          j('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+              var target = j(this.hash);
+              target = target.length ? target : j('[name=' + this.hash.slice(1) +']');
+              if (target.length) {
+                j('html,body').animate({
+                  scrollTop: target.offset().top
+                }, 1000);
+                return false;
+              }
+            }
+          });
+        })(jQuery);
+
+        // PREV/NEXT ON IA
+        (function($) {
+        j(window).scroll(function() {
+            if (j(this).scrollTop()) {
+                j('#previous_story:hidden').stop(true, true).fadeIn();
+                j('#next_story:hidden').stop(true, true).fadeIn();
+            } else {
+                j('#previous_story').stop(true, true).fadeOut();
+                j('#next_story').stop(true, true).fadeOut();
+            }
+        });
+        })(jQuery);
+
+
+        // SLIDE-IN NAV
+        (function($) {
+        j( ".close-side-menu" ).click(function() {
+            j('#st-container').removeClass('st-menu-open');
+        });
+        })(jQuery);
+
+         //MASONRY
+              
+
+function changeCols() {
+        (function($) {
+              
+                check_css_size();
+                if(mod_pos == 'bottom') {
+                   j('.widgets-inner').addClass('bottomwidgets');
+                     
+                 } else {
+                   j('.widgets-inner').removeClass('bottomwidgets');
+                 }
+              
+        })(jQuery);
+}//function
+
+j(document).ready(function($) {
+   changeCols();
+});
+
+j(window).resize(function( event ) {
+        changeCols();
+});
+
+
+(function($) {
+  j(window).load(function(){
+        var $ctCollContainer = j('.widgets-inner');
+
+           j('.twitter-timeline').closest( ".module" ).height('300px');
+           j('.fb_iframe_widget').closest( ".module" ).height('230px');
+
+           $ctCollContainer.imagesLoaded( function(){
+              $ctCollContainer.masonry({
+                    itemSelector: '.module',
+                    "gutter": 20,
+               });
+
+               var msnry = $ctCollContainer.data('masonry');
+
+               msnry.on( 'layoutComplete', function( msnryInstance, laidOutItems ) {
+                 //console.log('Masonry layout completed on ' + laidOutItems.length + ' items');
+                    
+               });
+
+               msnry.layout();
+                $ctCollContainer.masonry('reloadItems');
+
+            });//end imagesloaded
+      });
+})(jQuery);
+
+
+
+//banner image loaded
+        (function($) {
+        bg = j('#banner').css('background-image');
+
+       if (bg && bg !='none') {
+         var src = bg.replace(/(^url\()|(\)$|[\"\'])/g, '');
+           $img = j('<img>').attr('src', src).on('load', function() {
+              j('#banner-title, #banner-desc').show();
+           });
+        } else {
+              j('#banner-title, #banner-desc').show();
+        }
+        })(jQuery);
+
+//default highlight bar from theme colors
+
+function hexToRgb(hex) {
+   var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+    r = parseInt(result[1], 16);
+    g = parseInt(result[2], 16);
+    b = parseInt(result[3], 16);
+    j('.overlay-text').css('background', 'rgba(' + r + ',' + g + ',' + b + ',0.7)');
+}
+hexToRgb("#242424");
+
+
+//nav-highlight
+(function($){
+  j('.navtext a').each(function() {
+    if (j(this).prop('pathname') == window.location.pathname) {
+      j(this).addClass('currentnav');
+    }
+  });
+})(jQuery);
+
+        </script>
+
+        </div>
+
+    </main>
+
+<div id="mysize" style="display: none"></div>
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=30299&amp;user_id=18772&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+
+
+
+<!-- ph=1 -->
